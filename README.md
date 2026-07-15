@@ -168,7 +168,3 @@ Exiting Employee Management System. Goodbye!
 
 ---
 
-## 👩‍💻 Author
-
-**Prachi Prajapati**  
-GitHub: [@ps-prachi-prajapati](https://github.com/ps-prachi-prajapati)
