@@ -1,6 +1,6 @@
-# 👤 Employee Management System
+#  Employee Management System
 
-A simple, console-based **Employee Management System** built in Java. This application allows users to manage employee records entirely through a text menu — no database required. Data is stored in memory using an `ArrayList`.
+A simple, console-based **Employee Management System** built in Java. This application allows users to manage employee records entirely through a text menu  no database required. Data is stored in memory using an `ArrayList`.
 
 ---
 
