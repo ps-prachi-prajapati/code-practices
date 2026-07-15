@@ -19,7 +19,8 @@ A simple, console-based **Employee Management System** built in Java. This appli
 
 ## 🖥️ Application Screenshot
 
-![Employee Management System - Console Demo](./screenshot.png)
+<img width="964" height="750" alt="Screenshot 2026-07-15 113028" src="https://github.com/user-attachments/assets/1555941b-3b7d-48b4-94a2-b274de105dc8" />
+
 
 ---
 
